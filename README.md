@@ -7,4 +7,5 @@
 ## Output:
   **simple interest = p * t * r**
 
+  > I make a little changues for better presentation but is the same content whatever
   > I hope you enjoy this proyect and your journey in this career!
